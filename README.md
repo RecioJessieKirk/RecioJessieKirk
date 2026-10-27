@@ -1,4 +1,4 @@
-![Jessie Kirk Recio — full-stack developer](./banner.svg)
+![Jessie Kirk Recio — full-stack developer](./banner-profile.svg)
 
 # Hi, I’m Jessie Kirk Recio.
 
