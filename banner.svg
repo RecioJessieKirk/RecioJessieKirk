@@ -9,7 +9,7 @@
     <rect x="-105" y="-105" width="210" height="210" stroke="#977dff" stroke-width="2"/>
     <rect x="-78" y="-78" width="156" height="156" stroke="#b7a3ff" stroke-width="2"/>
   </g>
-  <text x="72" y="87" fill="#b7a3ff" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">KIRK.DEV  /  GITHUB</text>
+  <text x="72" y="87" fill="#b7a3ff" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">GITHUB</text>
   <text x="72" y="165" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Jessie Kirk Recio<tspan fill="#b7a3ff">.</tspan></text>
   <text x="74" y="214" fill="#e9e1f4" font-family="Arial, sans-serif" font-size="21">Full-stack developer · interfaces, systems &amp; data</text>
 </svg>
